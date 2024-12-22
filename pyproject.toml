@@ -3,7 +3,7 @@ build-backend = "hatchling.build"
 requires = ["hatchling"]
 
 [project]
-name = "treedata"
+name = "Abdu"
 version = "0.1.2"
 description = "anndata with trees"
 readme = "README.md"
